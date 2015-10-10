@@ -5,6 +5,24 @@ As mention below I attached 4 plots and R code to make this plots. For proper wo
 
 Bellow I left original Readme.md file as is.
 
+##File Content
+Bellow I show my version of file from current repo
+### Plot 1
+
+![plot #1](plot1.png) 
+
+### Plot 2
+
+![plot #2](plot2.png) 
+
+### Plot 3
+
+![plot #3](plot3.png) 
+
+### Plot 4
+
+![plot #4](plot4.png) 
+
 ## Introduction
 
 This assignment uses data from
