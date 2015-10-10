@@ -1,3 +1,10 @@
+##AndreyZhdanov Fork comment
+This is a fork of mr. Roger D. Peng repository for Class Project week 1 of *<b>Exploratory Data Analysis</b>* course.
+
+As mention below I attached 4 plots and R code to make this plots. For proper work of attached scripts place source file in the working directory.
+
+Bellow I left original Readme.md file as is.
+
 ## Introduction
 
 This assignment uses data from
